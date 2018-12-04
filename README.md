@@ -2,7 +2,7 @@
 An  application with c language to solve a given grid of sudoku.
 
 Structure choosen:
-- Linked lsites
+- Linked listes
 
 Programme features:
 * Game mode : a consol interface to play sudoku.
